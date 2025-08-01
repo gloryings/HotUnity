@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.github.sisiong">
+
+<!--    &lt;!&ndash; 这里保留需要的权限声明 &ndash;&gt;-->
+<!--    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />-->
+
+    <!-- Library 模块里不要有 <application> 标签 -->
+</manifest>
